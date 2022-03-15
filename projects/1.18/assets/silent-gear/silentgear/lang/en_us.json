@@ -893,5 +893,7 @@
   "trait.silentgear.vulcan": "Vulcan",
   "trait.silentgear.vulcan.desc": "Places obsidian at a high durability cost",
   "trait.silentgear.widen": "Widen",
+      "trait.silentgear.nc_radiation_protection": "Nuclear Radiation Protection",
+    "trait.silentgear.nc_radiation_protection.desc": "Not tested, just see if this NBT trait works. Protects you from radiation protection.",
   "trait.silentgear.widen.desc": "Increases the effect radius of hammers and excavators"
 }
